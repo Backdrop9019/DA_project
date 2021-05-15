@@ -1,4 +1,5 @@
-"# DA_project" 
+Data augmentation project
+decalcomanie
 
 # 실전기계
 
