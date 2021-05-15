@@ -3,7 +3,7 @@ decalcomanie
 
 # 실전기계
 
-## MIXUP
+## Result(cifar-100, resnet34)
 
 |Dataset|DA|Acc|
 |------|---|---|
