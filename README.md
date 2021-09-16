@@ -1,7 +1,10 @@
 Data augmentation project
-decalcomanie
+augumentation 만들어보기!
 
-# 실전기계
+decalcomanie 형태로 만들어보자
+cifar-100, cifar-10 은 대부분 데칼코마니 형태를 취해도 sementic이 유지가 되니까 잘 작동하지 않을까..?
+
+# (21-1) 실전기계학습
 
 ## Result(cifar-100, resnet34)
 
